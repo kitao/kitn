@@ -1,0 +1,13 @@
+[package]
+name = "kitn"
+version = "0.0.1"
+authors = ["Takashi Kitao"]
+edition = "2021"
+description = "A creation kit for novel retro apps"
+readme = "README.md"
+repository = "https://github.com/kitao/kitn"
+license = "MIT"
+keyworkds = ["audio", "game", "gamedev", "graphics", "gui"]
+categories = ["embedded", "game-development", "graphics", "gui", "multimedia"]
+
+[dependencies]

@@ -1,3 +1,3 @@
-# KitN
+# Kitn
 
-Neo-Retro App Development Kit
+A creation kit for novel retro apps
