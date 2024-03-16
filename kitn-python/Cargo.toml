@@ -1,0 +1,13 @@
+[package]
+name = "kitn_python"
+version = "0.0.1"
+authors = ["Takashi Kitao"]
+edition = "2021"
+description = "The Python bindings for KitN"
+readme = "README.md"
+repository = "https://github.com/kitao/kitn"
+license = "MIT"
+keyworkds = ["audio", "gamedev", "graphics", "gui", "python"]
+categories = ["api-bindings", "game-development", "graphics", "gui", "multimedia"]
+
+[dependencies]
