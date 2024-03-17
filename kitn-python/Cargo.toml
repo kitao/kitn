@@ -1,6 +1,6 @@
 [package]
 name = "kitn-python"
-version = "0.0.0"
+version = "0.0.1"
 authors = ["Takashi Kitao <takashi.kitao@gmail.com>"]
 edition = "2021"
 description = "The Python bindings for KitN: a creation kit for novel retro apps"
