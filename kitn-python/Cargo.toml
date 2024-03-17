@@ -11,5 +11,5 @@ keywords = ["audio", "gamedev", "graphics", "gui", "python"]
 categories = ["api-bindings", "game-development", "graphics", "gui", "multimedia"]
 
 [dependencies]
-kitn = { path = "../kitn" }
+kitn = { path = "../kitn", version = "0.0.0" }
 pyo3 = { version = "0.20", features = ["abi3-py37", "extension-module"] }
