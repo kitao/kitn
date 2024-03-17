@@ -1,3 +1,1 @@
-# KitN
-
-A creation kit for novel retro apps
+# KitN: a creation kit for novel retro apps
