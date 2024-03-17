@@ -1,5 +1,5 @@
 [package]
-name = "kitn_python"
+name = "kitn-python"
 version = "0.0.0"
 authors = ["Takashi Kitao <takashi.kitao@gmail.com>"]
 edition = "2021"
