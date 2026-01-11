@@ -72,7 +72,7 @@ fn main() {
         build.cpp(true).std("c++17");
     } else {
         // Assuming C11 for .c file if not C++
-        build.std("c11");
+        build.std("c11").flag("-w");
     }
 
     build.compile("pocketpy");

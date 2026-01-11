@@ -1,1 +1,1 @@
-// host_godot module stub
+pub mod kitn_node;

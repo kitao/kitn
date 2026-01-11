@@ -1,3 +1,5 @@
 [gd_scene format=3 uid="uid://b8p6y4x4x4x4x"]
 
 [node name="Main" type="Node2D"]
+
+[node name="KitnNode" type="KitnNode" parent="."]
