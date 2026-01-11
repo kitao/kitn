@@ -1,0 +1,12 @@
+[configuration]
+
+entry_symbol = "gdext_rust_init"
+
+[libraries]
+
+macos.debug = "res://addons/kitn/bin/macos/libkitn.dylib"
+macos.release = "res://addons/kitn/bin/macos/libkitn.dylib"
+linux.debug = "res://addons/kitn/bin/linux/libkitn.so"
+linux.release = "res://addons/kitn/bin/linux/libkitn.so"
+windows.debug = "res://addons/kitn/bin/windows/kitn.dll"
+windows.release = "res://addons/kitn/bin/windows/kitn.dll"

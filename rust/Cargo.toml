@@ -10,4 +10,12 @@ license = "MIT"
 keywords = ["audio", "game", "gamedev", "graphics", "gui"]
 categories = ["embedded", "game-development", "graphics", "gui", "multimedia"]
 
+[lib]
+crate-type = ["cdylib"]
+
 [dependencies]
+godot = "0.1.3"
+
+[build-dependencies]
+cc = "1.0"
+bindgen = "0.69"
